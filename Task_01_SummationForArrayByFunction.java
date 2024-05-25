@@ -1,7 +1,7 @@
 package Second_Assignment;
 
 
-public class SummationForArrayByFunction {
+public class Task_01_SummationForArrayByFunction {
     static int getSummition(int []arr){
         int sum = 0;
         for(int i=0;i<arr.length;i++){

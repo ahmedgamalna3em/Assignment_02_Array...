@@ -1,6 +1,6 @@
 package Second_Assignment;
 
-public class Num_OF_Elements {
+public class Task_02_Num_OF_Elements {
     static int get_No_of_Element(int []arr){
         int counter = 0;
         for(int i=0;i<arr.length;i++){

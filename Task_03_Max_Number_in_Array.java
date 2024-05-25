@@ -1,6 +1,6 @@
 package Second_Assignment;
 
-public class Max_Number_in_Array {
+public class Task_03_Max_Number_in_Array {
     static int getMAx(int []arr){
         int max = arr[0];
         for(int i=0;i<arr.length;i++){
